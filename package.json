@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Test only, not published to NPM.",
   "author": "Frankie <1426203851@qq.com>",
-  "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module",
+  "main": "./index.js"
 }
